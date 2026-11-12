@@ -1,0 +1,522 @@
+StringID,,EN,DE
+language_name,UI - Settings Menu,English,Deutsch
+wordcount,,1959,636
+,,,
+mainmenu_quit,UI - Main Menu,Quit,Beenden
+mainmenu_settings,UI - Main Menu,Settings,Einstellungen
+mainmenu_start,UI - Main Menu,Start,Starten
+mainmenu_continue,UI - Main Menu,Continue,Fortfahren
+mainmenu_wishlistonsteam,UI - Main Menu,Wishlist On Steam,
+mainmenu_joindiscord,UI - Main Menu,Join The Discord,
+,,,
+settings_on,UI - Settings,On,An
+settings_off,UI - Settings,Off,Aus
+settings_settings,UI - Settings,- SETTINGS -,- EINSTELLUNGEN -
+settings_general,UI - Settings - General,General,Allgemein
+settings_general_language,UI - Settings - General,Language,Sprache
+settings_general_shownumbers,UI - Settings - General,Show Floating Numbers,Schwebende Zahlen anzeigen
+settings_general_enablescreenshakes,UI - Settings - General,Enable Screenshakes,Bildschirmwackeln aktivieren
+settings_general_showinputui,UI - Settings - General,Show Input UI,Eingabe UI anzeigen
+settings_general_levelupstyle,UI - Settings - General,Level-Up Style,
+settings_general_autoattack,UI - Settings - General,Auto Attack,
+settings_graphics,UI - Settings - Graphics,Graphics,Grafik
+settings_graphics_fullscreen,UI - Settings - Graphics,Fullscreen,Vollbild
+settings_graphics_brightness,UI - Settings - Graphics,Brightness,Helligkeit
+settings_graphics_resolution,UI - Settings - Graphics,Resolution,
+settings_graphics_fpscap,UI - Settings - Graphics,FPS Cap,
+settings_graphics_lowperformance,UI - Settings - Graphics,Low Performance Mode,
+settings_audio,UI - Settings - Sound,Sound,Audio
+settings_audio_musicvolume,UI - Settings - Sound,Music Volume,Musiklautstärke
+settings_audio_effectsvolume,UI - Settings - Sound,FX Volume,Effektlautstärke
+settings_misc,UI - Settings - Misc,Misc,Sonstiges
+settings_ui,,UI,
+settings_ui_overlayscaling,,Overlay UI Scaling,
+settings_ui_cursorstyle,,Cursor Style,
+settings_ui_cursorsize,,Cursor Size,
+,,,
+menu_doyouwanttoquit,,Do you want to Quit?,Möchtest du das Spiel beenden?
+menu_continue,,Continue,Fortsetzen
+menu_quit,,Quit,Beenden
+,,,
+pausemenu_pause,,PAUSE,PAUSE
+pausemenu_continue,,Continue,Fortfahren
+pausemenu_wakeup,,Wake Up,Aufwachen
+,,,
+demo_demo,Demo - Title Screen,DEMO,DEMO
+demo_thanksforplaying,Demo - Ending,Thanks for playing the demo!,"Danke, dass Sie die Demo gespielt haben!"
+demo_endingcall,,"<size=150%>Thanks for Playing the Demo !</size><br><br>If you enjoyed your experience, want to stay tuned or just want to support us, consider wishlisting Ignitement on Steam and joining the Discord.",
+demo_lockedindemo,Demo - Overworld,LOCKED IN DEMO,IN DEMO GESPERRT
+demo_sorry,Demo - Overworld,Sorry,Entschuldigung
+,,,
+feedback_presstosendfeedback,,Press F11 to send feedback,
+feedback_tellusyourthoughts,,Tell us your thoughts!,
+feedback_enterfeedback,,Enter feedback...,
+feedback_send,,Send,
+,,,
+inputaction_move,,Move,Bewegen
+inputaction_interact,,Interact,Interagieren
+inputaction_continue,,Continue,Weitermachen
+inputaction_attack,,Attack,Angriff
+inputaction_secondary,,Secondary Action,Sekundäraktion
+inputaction_levelup,,Level Up,Levelaufstieg
+inputaction_allocateblood,,Allocate Blood,
+inputaction_changecandle,,Change Candle,
+,,,
+charactersheet_title,,~ Character Sheet ~,~ Characterbogen ~
+charactersheet_items,,~ Items ~,~ Gegenstände ~
+charactersheet_upgrades,,~ Upgrades ~,
+,,,
+burdenssheet_title,,Burdens,
+,,,
+general_notenoughcurrency,,Not enough <sprite name=currency>,Nicht ausreichend <sprite name=currency>
+general_notenoughmana,,Not enough mana!,Nicht genug Mana!
+general_cooldownnotready,,Not ready yet!,Noch nicht bereit!
+,,,
+mask_impatienceandneglect,,Mask of Impatience and Neglect,Maske der Ungeduld und Vernachlässigung
+mask_deflectanddisperse,,Mask of Deflection And Disperse,Maske der Ablenkung und Zerstreuung
+mask_furyandanger,,Mask of Fury and Anger,Maske der Wut und des Zorns
+mask_rejectanddelay,,Mask of Reject and Delay,
+mask_chaos,,Mask of Chaos,Maske des Chaos
+,,,
+item_equip,,Equip,ausstatten
+item_take,,Take,nehmen
+item_leave,,Leave,liegen lassen
+item_recoverattribute,,Recover {value} {attribute},{value} {attribute} wiederherstellen
+item_temporaryattribute,,"For {seconds}s, gain:",Für {seconds} s erhältst du:
+item_prefix_red,,Red,Rot
+item_prefix_blue,,Blue,Blau
+item_prefix_silver,,Silver,Silber
+item_prefix_emerald,,Emerald,Smaragd
+item_prefix_golden,,Golden,Gold
+item_prefix_health,,Health,Gesundheit
+item_prefix_mana,,Mana,Mana
+item_prefix_speed,,Speed,Geschwindigkeit
+item_prefix_chaos,,Chaos,Chaos
+item_suffix_health,,of Health,der Gesundheit
+item_suffix_mana,,of Mana,von Mana
+item_name_pendant,,Pendant,Anhänger
+item_name_charm,,Charm,
+item_name_potion,,Potion,Trank
+,,,
+interactable_meditate,,Meditate,Meditieren
+interactable_shrineofsacrifice,,Shrine Of Sacrifice,Opferschrein
+interactable_bookofdenial,,Book Of Denial,Buch der Verleugnung
+interactable_bookofwisdom,,Book Of Wisdom,Buch der Weisheit
+interactable_wishingwell,,Wishing Well,Wunschbrunnen
+interactable_demonofburdens,,Demon Of Burdens,Dämon der Bürden
+interactable_demonofgreed,,Demon Of Greed,Dämon der Gier
+interactable_demonofchance,,Demon Of Chance,Dämon des Zufalls
+interactable_demonofchallenge,,Demon Of Challenge,Dämon der Herausforderung
+interactable_candles,,Candles,Kerzen
+interactable_open,,Open,Öffnen
+interactable_tree,,Tree Of Knowledge,Baum der Erkenntnis
+,,,
+dialog_intro0,,"The holy mountain I must reach,<br> where loss and pain will come to teach.<br><br>For ready I will never be,<br>my human eyes will never see.<br><br>I am scared. I am alone. I am ready.",
+dialog_intro1,,"A test of strength is not enough,<br>I must be scared, alone and tortured rough.<br><br>Into the flames I must go,<br>to lose my mind and find my soul.<br><br>I am scared. I am alone. I am ready.",
+dialog_intro2,,Through the flames I must be formed.<br>May I die and be reborn.<br><br>Through the heat I must be burned.<br>Walk through hell with no concern.<br><br>Through the scorch I must decend.<br>All alone to meet my end.<br><br>As I approach my Ignitement.<br><br>I am scared. I am alone. I am ready.,
+dialog_runfailed00,,"As lonely as I've ever been,<br>No foreign soul to help within.",
+dialog_runfailed01,,"Deep within my soul I've been,<br>To touch my void and burn my skin.",
+dialog_runfailed02,,"I searched and fought for treasury, <br>but found despair and misery.",
+dialog_runfailed03,,"Burned and scorched I found my end,<br>from ashes I'll be born again.",
+dialog_runfailed04,,"My emptiness consumed me now,<br>I won't regret. I will not bow.",
+dialog_runfailed05,,"My heart is burned from pain unspoken.<br>My mind stays sharp, my will unbroken.",
+dialog_runfailed06,,Like fungus my ill thoughts have spread.<br>May they grow more and drive me mad.,
+dialog_runfailed07,,The horrors that control my head.<br>May I stand up and face them scared.,
+dialog_maskofimpatience00,,No more waiting. No more preparation. Show them!,
+dialog_maskofimpatience01,,Now. Not later. NOW!,
+dialog_maskofimpatience02,,I'm tired of waiting.,
+dialog_maskoffury00,,"Burn them, burn them, burn them!",
+dialog_maskoffury01,,Make them suffer! Every. Single. One.,
+dialog_maskofdeflection00,,"It's not me, it's them!",
+dialog_maskofdeflection01,,Push them away!,
+dialog_maskofreject00,,I can't let them get close to me.,
+dialog_maskofreject01,,I'll stay alone.,
+dialog_maskofreject02,,I need distance!,
+dialog_maskofchaos00,,No plan means nothing can go wrong.,
+dialog_maskofchaos01,,???,
+dialog_wishingwell00,,Hm...,
+dialog_wishingwell01,,Uncertainty...,
+dialog_wishingwell02,,I wish for which I cannot provide myself.,
+dialog_wishingwell03,,Is this going to help me?,
+dialog_wishingwell04,,May fate be on my side.,
+dialog_wishingwell05,,My pockets are now lighter.,
+dialog_wishingwell06,,I don't feel any different.,
+dialog_wishingwell07,,Something happened.,
+,,,
+dialog_itslocked,,It's locked.,
+dialog_lockedindemo,,Locked in demo.,
+dialog_pathunlocked,,A new path has been unlocked.,
+dialog_cantuse,,"I can't use this, yet.",
+dialog_generalunlocked,,Something has been unlocked.,
+dialog_maskunlocked,,A new mask has been unlocked.,
+dialog_shrineofsacrificeunlocked,,The shrine of sacrifice has been unlocked.,
+dialog_candlesunlocked,,The candles have been unlocked.,
+dialog_newcandleunlocked,,A new candle has been unlocked.,
+dialog_bookofdenial_tutorial,,<size=150%>The Book Of Denial</size><br><br>The book of denial lets you spend <sprite name=currency> to deny/remember upgrades.<br>Denied upgrades cannot be found during meditation.,
+dialog_bookofwisdom_tutorial,,<size=150%>The Book Of Wisdom</size><br><br>The book of wisdom lets you spend <sprite name=currency> to permanently add Heat to your Upgrades or unlock new ones.<br>Upgrades with higher Heat levels are generally stronger when found during meditation.,
+dialog_shrineofsacrifice_tutorial,,"<size=150%>The Shrine Of Sacrifice</size><br><br>The shrine of sacrifice lets you use <sprite name=blood> to adjust modifiers for your next meditation.<br>The more <sprite name=blood> you allocate, the more <sprite name=currency> you earn during meditation.<br><br>Blood is gained for achieving victory.",
+dialog_candles_tutorial,,<size=150%>Candles</size><br><br>These candles are used to decide which aspect of your inner turmoil you want to meditate on.,
+dialog_tree_tutorial,,<size=150%>The Tree Of Knowledge</size><br><br>Spend <sprite name=currency> to grow the tree of knowledge. Harvest its fruit to permanently raise your attributes.,
+,,,
+bookofdenial_deny,,Deny,
+bookofdenial_reset,,Reset All,
+bookofdenial_remember,,Remember,
+bookofdenial_denyremember,,Deny/Remember,
+bookofdenial_locked,,Locked,
+bookofdenial_maxdenialreached,,Maximum denial reached.,
+bookofwisdom_unlockupgrade,,Unlock,
+bookofwisdom_addheat,,Add Heat,
+bookofwisdom_maximumheatreached,,Maximum heat reached.,
+bookofwisdom_requirementsnotmet,,Requirements not met.,
+,,,
+wishingwell_description,,"<color=#ddb888><size=150%>~ The Wishing Well ~</size></color><br><br><color=#bbbbbb><i>Where knowlege meets its end,<br> Fate begins to spread.</i></color>",
+wishingwell_action,,Toss 1<sprite name=currency> into the well,
+wishingwell_nothingtogive,,I have nothing to give...,
+wishingwell_currencytossed,,You have tossed {currency}<sprite name=currency> into the well.,
+wishingwell_creature00,,...,
+wishingwell_creature01,,Someone woke me from my sleep.<br>Someone with lots of coins to give.,
+wishingwell_creature02,,Many souls have tried their luck.<br>Most of them where too corrupt.,
+wishingwell_creature03,,"Only I have seen it all.<br>I've seen them fight, I've seen them fall.",
+wishingwell_creature04,,"Down in the well, it's safe and sound.<br>My problems gone, let them stay out.",
+wishingwell_creature05,,Why fight? Why burn your soul?<br>Here in the well I have it all!,
+wishingwell_creature06,,"Your hopes and dreams, I had the same.<br> Until into the well I came.",
+wishingwell_creature07,,"Some called me fool, some called me mad.<br>But in the well, I'm never sad.",
+wishingwell_creature08,,"To struggle is to loose, I guess.<br>So i retreat into the nothingness.",
+wishingwell_creature09,,You want to know what set me free?<br>Contentment and insanity.,
+wishingwell_creature10,,Contentment and insanity. Contentment and insanity. Contentment and insanity.,
+wishingwell_creature11,,One last thing I want to do.<br>This old thing might be for you.,
+wishingwell_creature12,,Contentment and insanity. Contentment and insanity. Contentment and insanity.,
+wishingwell_demo,,"I wish I could help your little soul,<br>but this is only the demo.",
+,,,
+tree_description,,<color=#ddb888><size=150%>~ The Tree Of Knowledge~</size></color><br><color=#bbbbbb><i>It's time to harvest the fruits of your labor</i></color>,
+tree_action,,Grow,
+tree_fruit_growth,,{growthpercent} grown,
+tree_fruit_readyforharvest,,Ready for harvest!,
+tree_fruit_harvest,,Harvest,
+tree_harvested,,Harvested,
+tree_nothingharvested,,Nothing,
+,,,
+class_characterAttributesPlayer,,Character Attributes,Charakterattribute
+,,,
+enum_levelupmethod_immediatedraw,,Auto Open,
+enum_levelupmethod_manualdraw,,Manual Open,
+enum_levelupmethod_autorandomdraw,,Auto Choose Random,
+enum_mousecursorstyletype_normal,,Normal,
+enum_mousecursorstyletype_highcontrast,,High Contrast,
+enum_mousecursorstyletype_highcontrastbig,,High Contrast & Big,
+enum_fpscap__15,,15,
+enum_fpscap__30,,30,
+enum_fpscap__60,,60,
+enum_fpscap__unlimited,,Unlimited,
+,,,
+attribute_poisonDamageMultiplier,,poison damage multiplier,Giftschadensmultiplikator
+attribute_pickUpRadius,,pickup radius,Aufsammelradius
+attribute_invincibilityTimeAfterReceivingDamage,,invincibility time after injury,Unverwundbarkeitszeit nach Verletzung
+attribute_luck,,luck,Glück
+attribute_health,,health,Leben
+attribute_mana,,mana,Mana
+attribute_damage,,damage,Schaden
+attribute_attackSpeed,,attack speed,Angriffsgeschwindigkeit
+attribute_movementSpeed,,movement speed,Bewegungsgeschwindigkeit
+attribute_area,,area,Fläche
+attribute_numberOfProjectiles,,number of projectiles,Anzahl der Projektile
+attribute_projectileTargetSeekingRadius,,projectile target seeking radius,Projektilzielradius
+attribute_projectileScale,,projectile scale,Projektilgrösse
+attribute_damageMultiplier,,damage multiplier,Schadensmultiplikator
+attribute_damageOnTouch,,damage on touch,Berührschaden
+attribute_projectileSpeed,,projectile speed,Projektilgeschwindigkeit
+attribute_regeneration,,regeneration,Regeneration
+attribute_health.regeneration,,health regeneration,
+attribute_mana.regeneration,,mana regeneration,
+attribute_chanceToR,,chance of fire,Chance auf Feuer
+attribute_chanceToG,,chance of poison,Chance auf Gift
+attribute_chanceToB,,chance of frost,Change auf Frost
+attribute_dashDuration,,dash duration,Sprintlänge
+attribute_dashSpeed,,dash speed,Sprintgeschwindigkeit
+attribute_movementSpeedMultiplierRunning,,speed multiplier when running,Geschwindigkeitsmultiplikator wenn rennend
+attribute_canRun,,running enabled,Rennen aktiviert
+attribute_fireLifeTime,,fire lifetime,Feuer Lebenszeit
+attribute_radius,,radius,Radius
+attribute_impactRadius,,impact radius,Aufprallradius
+attribute_flameSize,,flame size,Flammengrösse
+attribute_size,,size,Grösse
+attribute_numberOfClaws,,number of claws,Anzahl der Klauen
+attribute_clawSpeed,,claw speed,Klauengeschwindigkeit
+attribute_clawLength,,claw length,Klauenlänge
+attribute_numberOfJumps,,number of jumps,Anzahl der Sprünge
+attribute_pushIntensity,,push intensity,Druckintensität
+attribute_burnDamageToFrozenMultiplier,,burn damage to frozen multiplier,
+attribute_criticalHitChance,,critical hit chance,
+attribute_criticalHitDamage,,critical hit damage,
+attribute_maxMultiCrits,,multi-critical hits,
+attribute_teleport,,teleport enabled,
+attribute_numberOfChains,,number of chains,
+attribute_potency,,potency,
+attribute_numberOfSecondarySpawns,,number of secondary spawns,
+attribute_enablePushBack,,push back enabled,
+attribute_numberOfRays,,number of rays,
+attribute_bendRadius,,bend radius,
+attribute_piercing,,piercing,
+attribute_range,,range,
+attribute_bubbleCoolDown,,cooldown,
+attribute_stunOnEnter,,stun on enter,
+attribute_numberOfBubbles,,number of time bubbles,
+attribute_explodeOnExpire,,explode on expire,
+attribute_manaCost,,mana cost,
+attribute_enableLightning,,lightning enabled,
+,,,
+ability_gemDamage,,Blood Gems,
+ability_comets,,Comets,Kometen
+ability_corpseExplosion,,Corpse Explosion,Kadaverexplosion
+ability_dash,,Dash,Sprint
+ability_heatWave,,Heat Wave,Hitzewelle
+ability_lightningStrikes,,Lightning Strikes,Blitzeinschläge
+ability_ringOfFire,,Ring Of Fire,Feuerring
+ability_shield,,Shield,Schild
+ability_bomb,,Bomb,Bombe
+ability_claws,,Claws,Klaue
+ability_whirlwindclaws,,Whirlwind Claws,Wirbelwindklaue
+ability_fireball,,Fireball,Feuerball
+ability_summonFireOrb,,Fire Orb,Feuerkugel
+ability_summonFireSeeker,,Fire Seeker,Feuersucher
+ability_flame,,Flame,Flamme
+ability_shadow,,Shadow,Schatten
+ability_jump,,Jump,Sprung
+ability_temporarypoison,,Infuse Poison,
+ability_temporaryfrost,,Infuse Frost,
+ability_summonskeletons,,Raise the Dead,
+ability_chainlightning,,Chain Lightning,
+ability_chains,,Chains,
+ability_timebubble,,Time Bubble,
+ability_alchemy,,Alchemy,
+ability_ray,,Death Ray,
+,,,
+upgrade_none_name,,Emptyness,
+upgrade_none_description,,There is nothing left to gain.,
+upgrade_attackspeedformana_name,,Flow,
+upgrade_attackspeedformana_description,,Increase attack speed based on your missing mana.<br><br><b>Maximum increase</b>:,
+upgrade_attackspeedunique_name,,Aspect Of Impatience,Aspekt der Ungeduld
+upgrade_attackspeedunique_description,,Increase attack speed.,Angriffsgeschwindigkeit erhöhen.
+upgrade_attackspeed_name,,Swiftness,Schnelligkeit
+upgrade_attackspeed_description,,Increase attack speed.,Angriffsgeschwindigkeit erhöhen.
+upgrade_bloodgems_name,,Blood Gems,
+upgrade_bloodgems_description,,Attracted gems deal damage to enemies they touch.,
+upgrade_burndamagetofrozen_name,,Frostbite,
+upgrade_burndamagetofrozen_description,,Burn does additional damage to frozen enemies.,
+upgrade_poisonbomb_name,,Poison Bombs,Giftbomben
+upgrade_poisonbomb_description,,Add poison to some of your projectiles.,Füge einigen deiner Geschosse Gift hinzu.
+upgrade_damageformissinghealth_name,,Vengeance,Rache
+upgrade_damageformissinghealth_description,,Increase damage based on your missing health.<br><br><b>Maximum increase</b>:,
+upgrade_damageunique_name,,Aspect Of Disperse,Aspekt der Zerstreuung
+upgrade_damageunique_description,,Increase damage.,Schaden erhöhen.
+upgrade_damage_name,,Brutality,Brutalität
+upgrade_damage_description,,Increase damage.,Schaden erhöhen.
+upgrade_dashduration_name,,Stamina,Ausdauer
+upgrade_dashduration_description,,Increase dash distance.,Sprintdistanz erhöhen.
+upgrade_changeofmind_name,,Change Of Mind,Meinungsänderung
+upgrade_changeofmind_description,,You can keep running after the dash.,Du kannst nach dem Sprint weiterlaufen.
+upgrade_explosiondash_name,,Impact,Auswirkungen
+upgrade_explosiondash_description,,Emit an explosion at the end of your dash.,Löse am Ende deines Sprints eine Explosion aus.
+upgrade_firedashlifetime_name,,Burning Feet,Brennende Füße
+upgrade_firedashlifetime_description,,Fire from your dash burns longer.,Die Flamme aus Ihrem Armaturenbrett brennt länger.
+upgrade_firedash_name,,Walk Through Fire,Durchs Feuer gehen
+upgrade_firedash_description,,Leave a trail of fire whenever you dash,Hinterlasse bei jedem Sprint eine Feuerspur.
+upgrade_fireorb_name,,Fire Orb,Feuerkugel
+upgrade_fireorb_description,,"Transforms your fireball into a piercing, twirling fire orb.","Verwandelt deinen Feuerball in eine durchdringende, wirbelnde Feuerkugel."
+upgrade_frostnova_name,,Frost Nova,
+upgrade_frostnova_description,,Adds frost to the jumps nova.,
+upgrade_clingingcold_name,,Clinging Cold,Anhaftende Kälte
+upgrade_clingingcold_description,,Make your projectiles faster and colder.,Mach deine Geschosse schneller und kälter.
+upgrade_frostprojectile_name,,Icycles,Icycles
+upgrade_frostprojectile_description,,Add ice to your projectiles.,Füge deinen Geschossen Eis hinzu.
+upgrade_frostshield_name,,Frost Shield,
+upgrade_frostshield_description,,Your shield applies frost.,
+upgrade_comets_name,,Comets,Kometen
+upgrade_comets_description,,Comets rain from the sky.,Kometen regnen vom Himmel.
+upgrade_corpseexplosion_name,,Corpse Explosion,Leichenexplosion
+upgrade_corpseexplosion_description,,Enemies explode on death.,Feinde explodieren beim Tod.
+upgrade_dash_name,,Dash,Bindestrich
+upgrade_dash_description,,Quickly move forward over a small distance.,Bewegen Sie sich zügig über eine kurze Strecke vorwärts.
+upgrade_dust_name,,Dust,
+upgrade_dust_description,,Everything becomes poisonous for a short while.,
+upgrade_jump_name,,Jump,Springen
+upgrade_jump_description,,Jump up and crash down with an impact.,Spring hoch und krache mit einem lauten Aufprall wieder runter.
+upgrade_lightningstrikes_name,,Lightning Strikes,Blitzeinschläge
+upgrade_lightningstrikes_description,,"Each time an enemy receives burn damage, it may be struck by lightning.","Jedes Mal, wenn ein Gegner Brandschaden erleidet, kann er vom Blitz getroffen werden."
+upgrade_ringoffire_name,,Ring Of Fire,Feuerring
+upgrade_ringoffire_description,,Occasionally spawn a ring of fire around you that burns and pushes away enemies.,"Gelegentlich kann ein Feuerring um dich herum erzeugt werden, der Feinde verbrennt und wegstößt."
+upgrade_shield_name,,Shield,Schild
+upgrade_shield_description,,Evoke a shield that reflects damage.,"Erschaffe einen Schild, der Schaden reflektiert."
+upgrade_bomb_name,,Bombs,Bomben
+upgrade_bomb_description,,Throw exploding bombs.,Werft explodierende Bomben.
+upgrade_claws_name,,Claws,Krallen
+upgrade_claws_description,,Attack with burning claws.,Mit brennenden Klauen angreifen.
+upgrade_fireball_name,,Fireball,Feuerball
+upgrade_fireball_description,,Shoot an exploding fireball.,Schieße einen explodierenden Feuerball ab.
+upgrade_flame_name,,Flame,Flamme
+upgrade_flame_description,,Release a continous stream of fire.,Entfessle einen ununterbrochenen Feuerstrom.
+upgrade_flamepushback_name,,Exhale,
+upgrade_flamepushback_description,,Your flame pushes back enemies and projectiles,
+upgrade_mirrorimage_name,,Mirror Image,Spiegelbild
+upgrade_mirrorimage_description,,Summons a mirror image by your side that copies your moves.,"Beschwört ein Spiegelbild an deiner Seite, das deine Bewegungen kopiert."
+upgrade_bonechill_name,,Bone Chill,
+upgrade_bonechill_description,,Everything becomes frozen for a short while.,
+upgrade_healthregeneration_name,,Recover,Genesen
+upgrade_healthregeneration_description,,Increase health regeneration.,Steigerung der Gesundheitsregeneration.
+upgrade_health_name,,Endurance,Ausdauer
+upgrade_health_description,,Increase health.,Gesundheit steigern.
+upgrade_heal_name,,Refresh,Aktualisieren
+upgrade_heal_description,,Heals you to full health.,Heilt Sie zur vollständigen Gesundheit.
+upgrade_numberofclaws_name,,Grasp,Fassen
+upgrade_numberofclaws_description,,Increases the number of claws.,Erhöht die Anzahl der Krallen.
+upgrade_numberofjumps_name,,Grass Hopper,Grashüpfer
+upgrade_numberofjumps_description,,Increases the number of jumps.,Erhöht die Anzahl der Sprünge.
+upgrade_projectilesize_name,,Matter,Gegenstand
+upgrade_projectilesize_description,,Increase the size of projectiles.,Vergrößert die Projektile.
+upgrade_numberofprojectiles_name,,Multiply,Multiplizieren
+upgrade_numberofprojectiles_description,,Increase number of projectiles.,Erhöhen Sie die Anzahl der Projektile.
+upgrade_frostcomet_name,,Frost Comet,Frostkomet
+upgrade_frostcomet_description,,Add frost to the comet.,Verleihe dem Kometen Frost.
+upgrade_poisoncomet_name,,Poison Comet,Giftkomet
+upgrade_poisoncomet_description,,Add poison to the comet.,Füge dem Kometen Gift hinzu.
+upgrade_flamesize_name,,Inferno,Inferno
+upgrade_flamesize_description,,Increase flame size.,Flammengröße erhöhen.
+upgrade_ringoffiresize_name,,Wildfire,Waldbrand
+upgrade_ringoffiresize_description,,Increase the size of the ring of fire.,Vergrößere den Feuerring.
+upgrade_mana_name,,Concentration,Konzentration
+upgrade_mana_description,,Increase mana.,Mana erhöhen.
+upgrade_movementspeed_name,,Runner,Läufer
+upgrade_movementspeed_description,,Increase movement speed.,Erhöhe die Bewegungsgeschwindigkeit.
+upgrade_novajump_name,,Stamp,Stampfer
+upgrade_novajump_description,,Spawn a growing ring of fire when landing your jump.,Beim Landen nach einem Sprung entsteht ein wachsender Feuerring.
+upgrade_pickupallgems_name,,Greed,Gier
+upgrade_pickupallgems_description,,Pick up all gems.,Sammle alle Edelsteine ​​ein.
+upgrade_pickupradius_name,,Collector,Kollektor
+upgrade_pickupradius_description,,Increase pick up radius.,Vergrößerung des Aufnahmeradius.
+upgrade_poisonnova_name,,Poison Nova,
+upgrade_poisonnova_description,,Adds poison to the jumps nova.,
+upgrade_infections_name,,Infections,Infektionen
+upgrade_infections_description,,Make your projectiles more poisonous.,Mach deine Geschosse giftiger.
+upgrade_poisonprojectile_name,,Venom Fangs,Giftzähne
+upgrade_poisonprojectile_description,,Add poison to your projectiles.,Vergifte deine Geschosse.
+upgrade_poisonshield_name,,Poison Shield,
+upgrade_poisonshield_description,,Your shield applies poison.,
+upgrade_poisonupgrade_name,,Neurotoxins,Neurotoxine
+upgrade_poisonupgrade_description,,Increases poison damage.,Erhöht den Giftschaden.
+upgrade_randomattributes_name,,Chaos,Chaos
+upgrade_randomattributes_description,,Does something different every time.,Macht jedes Mal etwas anderes.
+upgrade_whirlwindclaws_name,,Whirlwind,Wirbelwind
+upgrade_whirlwindclaws_description,,Your claws spin around you instead.,Stattdessen kreisen deine Krallen um dich.
+upgrade_shieldaura_name,,Overcharge,
+upgrade_shieldaura_description,,"When using your shield, enemies are pushed around and touching enemies deals damage.",
+upgrade_projectiletargetseeking_name,,Attracion,Attraktion
+upgrade_projectiletargetseeking_description,,Projectiles are target seeking.,Projektile sind zielsuchend.
+upgrade_summonskeletons_name,,Raise the Dead,
+upgrade_summonskeletons_description,,Summons a skeleton to your side.,
+upgrade_criticalhitchance_name,,Aim,
+upgrade_criticalhitchance_description,,Increase the critical hit chance of burn damage.,
+upgrade_criticalhitdamage_name,,Pressure,
+upgrade_criticalhitdamage_description,,Increase critical hit damage.,
+upgrade_maxmulticrit_name,,Acupuncture,
+upgrade_maxmulticrit_description,,Critial hits can critical hit again.,
+upgrade_alchemy_name,,Alchemy,
+upgrade_alchemy_description,,Occaisonally consume a random potion.,
+upgrade_chainlightning_name,,Chain Lightning,
+upgrade_chainlightning_description,,"Whenever lightning is created, it can jump to nearby enemies.",
+upgrade_blink_name,,Blink,
+upgrade_blink_description,,"Your jump teleports, allowing you to pass through walls.",
+upgrade_chains_name,,Chains,
+upgrade_chains_description,,Enemies are chained together when taking damage.,
+upgrade_numberofchains_name,,Chain Link,
+upgrade_numberofchains_description,,Increase the number of chains.,
+upgrade_burningchains_name,,Burning Chains,
+upgrade_burningchains_description,,Your chains are burning.,
+upgrade_fireseeker_name,,Fire Seekers,
+upgrade_fireseeker_description,,Transforms your fireball into many small fire seekers.,
+upgrade_timebubble_name,,Time Bubble,
+upgrade_timebubble_description,,"Create a time-bubble, slowing all enemies and projectiles inside of it.",
+upgrade_numberofsecondarycomets_name,,Shooting Stars,
+upgrade_numberofsecondarycomets_description,,"After the main comet falls, additional secondary comets follow.",
+upgrade_ray_name,,Death Ray,
+upgrade_ray_description,,Release a flaming ray.,
+upgrade_numberofrays_name,,Prism,
+upgrade_numberofrays_description,,Increase the number of rays.,
+upgrade_raybend_name,,Curved Space,
+upgrade_raybend_description,,Your ray bends towards targets.,
+upgrade_raypiercing_name,,Tunneling,
+upgrade_raypiercing_description,,Your ray pierces through enemies.,
+upgrade_rayrange_name,,Elongate,
+upgrade_rayrange_description,,Increase the range of the ray.,
+upgrade_numberofbubbles_name,,Safe Space,
+upgrade_numberofbubbles_description,,Increases the number of bubbles and reduces its cooldown.,
+upgrade_bubblestun_name,,Impenetrable,
+upgrade_bubblestun_description,,Enemies entering the time bubble are stunned.,
+upgrade_bubbleexplosion_name,,Burst,
+upgrade_bubbleexplosion_description,,"When the time bubble expires, it explodes.",
+upgrade_flamelightning_name,,Static,
+upgrade_flamelightning_description,,Add lightning to the flame.,
+,,,
+upgrade_heat,,Heat,
+upgrade_locked,,LOCKED,
+upgrade_unique,,Unique,
+upgrade_maskaspect,,Mask Aspect,
+,,,
+demonofburdens_burden,,Burden,Bürde
+demonofburdens_reward,,Reward,Belohnung
+demonofburdens_accept,,Accept,Akzeptieren
+demonofburdens_decline,,Decline,Ablehnen
+demonofburdens_toliftthisburden,,{requirement} to lift this burden,{requirement} um diese Bürde von dir zu nehmen.
+,,,
+demonofchance_name,,The Demon Of Chance,
+demonofchance_flavortext,,"Where skill and strength is absent, may luck prevail",
+demonofchance_heads,,Heads,
+demonofchance_tails,,Tails,
+demonofchance_whatsitgoingtobe,,What's it going to be?,
+demonofchance_throw,,Throw the coin,
+demonofchance_doubleornothing,,Double or nothing?,
+,,,
+demonofgreed_comeandgetme,,Come and get me!,
+demonofgreed_escape,,The demon of greed has escaped...,
+,,,
+demonofchallenge_name,,The Demon Of Challenge,
+demonofchallenge_flavortext,,"Will you rise stronger,<br>or burn your wings and fall?",
+demonofchallenge_doyouaccept,,Do you accept this challenge?,
+demonofchallenge_accept,,Accept,
+demonofchallenge_decline,,Decline,
+,,,
+burden_uncertainty_name,,The Burden of Uncertainty,Die Bürde der Ungewissheit
+burden_uncertainty_flavortext,,"If the path ahead is clear, <br>you're probably walking someone elses path.","Wenn der Weg vor dir frei ist, <br>gehst du wahrscheinlich den Weg eines anderen."
+burden_numbness_name,,The Burden of Numbness,Die Bürde der Gefühllosigkeit
+burden_numbness_flavortext,,How can you fight what you cannot feel?<br>Have you spent your life utterly blind to the world?,"Wie kann man gegen etwas ankämpfen, das man nicht fühlen kann?<br>Hast du dein Leben völlig blind gelebt?"
+burden_ignorance_name,,The Burden of Ignorance,Die Bürde der Unwissenheit
+burden_ignorance_flavortext,,"True knowledge is lost on fools.<br>If truth might kill them, let them die.","Wahre Erkenntnis geht an Narren verloren.<br>Wenn die Wahrheit sie töten könnte, sollen sie sterben."
+burden_pain_name,,The Burden of Pain,Die Bürde des Schmerzes
+burden_pain_flavortext,,The only path forward is through.,Der einzige Weg nach vorn führt hindurch.
+burden_weakness_name,,The Burden of Weakness,Die Bürde der Schwäche
+burden_weakness_flavortext,,"Every tear unnoticed, every scream unheard.<br>Like a drowning child.","Jede Träne unbemerkt, jeder Schrei ungehört.<br>Wie ein ertrinkendes Kind."
+burden_debuff_dieondamage,,Any amount of damage instantly kills you,Jeglicher Schaden tötet dich sofort.
+burden_debuff_lowhp,,Set you health to {hp},Stelle deine Gesundheit auf {hp} ein.
+burden_debuff_nodamage,,You are unable to deal damage,Du kannst keinen Schaden verursachen.
+burden_debuff_slow,,You move very slowly,Du bewegst dich sehr langsam
+burden_debuff_xpdamage,,Every xp gem collected deals damage to you,Jeder eingesammelte XP-Edelstein fügt dir Schaden zu.
+burden_debuff_lifedrain,,Your health is draining,
+burden_requirement_slayenemies,,Slay {amount} enemies,Töte {amount} Feinde
+burden_requirement_survivetime,,Survive {seconds} seconds,Überlebe {seconds} Sekunden
+burden_reward_levelup,,Level Up,Levelaufstieg
+burden_reward_uncertain,,Uncertain...,Unsicher...
+burden_lifted,,Burden Lifted:,Bürde entnommen:
+,,,
+sacrifice_flavortext,,<color=#ddb888><size=150%>~ The Shrine Of Sacrifice ~</size></color><br><color=#bbbbbb><i>Lambs to the slaughter</i></color>,
+sacrifice_currencyperminute,, + {currency} per minute,
+sacrifice_name_health,,Thick Blood,
+sacrifice_name_damage,,Boiling Blood,
+sacrifice_name_attackspeed,,Spilled Blood,
+sacrifice_name_movementspeed,,Rushing Blood,
+sacrifice_name_numberofprojectiles,,Splashing Blood,
+sacrifice_description_genericattribute,,Enemies have a {chance} chance to gain {attributes}.,
+,,,
+candles_flavortext,,<color=#ddb888><size=150%>~ Candles ~</size></color><br><color=#bbbbbb><i>May there be light</i></color>,
+,,,
+statuseffect_frozen,,Frozen,Gefroren
+statuseffect_poisoned,,Poisoned,Vergiftet
+statuseffect_sticky,,Sticky,Klebrig

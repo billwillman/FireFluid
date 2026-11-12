@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FluidRender3DUnderworld1
+  m_Shader: {fileID: 4800000, guid: fd89483184d4d934393e2e0e1940df9a, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 2010
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties:
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+      _Density:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _Reaction:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _ReactionGradientBlue:
+        m_Texture: {fileID: 2800000, guid: 73d25194bf9da684f8c5aeef26341a78, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _ReactionGradientGreen:
+        m_Texture: {fileID: 2800000, guid: 6530fdfe4e5a2d24cb88c9517e8d208b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _ReactionGradientRed:
+        m_Texture: {fileID: 2800000, guid: 4724973e84f02bd4ba9b4531b3bc4302, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: {}
+    m_Floats:
+      _AddNoise: 0.315
+      _AlphaBlend: 1
+      _BumpScale: 1
+      _Cutoff: 0.5
+      _DensityAbsorption: 4
+      _DetailNoiseFactor: 12
+      _DetailNoiseFactorFog: 0.2
+      _DetailNoiseFactorReaction: 12
+      _DetailNormalMapScale: 1
+      _DstBlend: 0
+      _FireAbsorption: 10
+      _GlossMapScale: 1
+      _Glossiness: 0.5
+      _GlossyReflections: 1
+      _Metallic: 0
+      _Mode: 0
+      _NoiseIntensity: 1
+      _NoiseMovement: 4
+      _NoiseScale: 128
+      _OcclusionStrength: 1
+      _Parallax: 0.02
+      _ParallaxEllevationReaction: 20
+      _ParllaxFactor: 0.02
+      _ReactionAbsorption: 10
+      _ReactionBloom: 1
+      _ReactionPower: 0.7
+      _SmokeAbsorption: 10
+      _SmoothnessTextureChannel: 0
+      _SpecularHighlights: 1
+      _SrcBlend: 1
+      _TemperatureAbsorption: 4
+      _UVSec: 0
+      _ZWrite: 1
+    m_Colors:
+      _ColdFogColor: {r: 0.16981131, g: 0.16981131, b: 0.16981131, a: 1}
+      _Color: {r: 1, g: 1, b: 1, a: 1}
+      _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+      _FogOfWarColor: {r: 0.03773582, g: 0.03773582, b: 0.03773582, a: 0.78431374}
+      _SmokeColor: {r: 0.27205884, g: 0.27205884, b: 0.27205884, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 0

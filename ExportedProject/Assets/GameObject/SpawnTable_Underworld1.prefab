@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1709254077376921
+GameObject:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Component:
+  - component: {fileID: 4730242686860875}
+  - component: {fileID: 114724804207875695}
+  m_Layer: 0
+  m_Name: SpawnTable_Underworld1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4730242686860875
+Transform:
+  serializedVersion: 2
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1709254077376921}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!114 &114724804207875695
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1709254077376921}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20a2532192ad07e51c0eed29757f5f28, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  waves:
+  - startTime: 0
+    duration: 120
+    count: 100
+    prefab: {fileID: 1709254077376921, guid: e5dce2d6d0a23ae44a5e6b594c2ee17d, type: 2}
+  - startTime: 120
+    duration: 120
+    count: 500
+    prefab: {fileID: 1709254077376921, guid: e5dce2d6d0a23ae44a5e6b594c2ee17d, type: 2}
+  - startTime: 240
+    duration: 120
+    count: 10
+    prefab: {fileID: 1709254077376921, guid: 577f1253308434f4083519f6ef616473, type: 2}
+  - startTime: 240
+    duration: 120
+    count: 100
+    prefab: {fileID: 1709254077376921, guid: 684056d182d1d1c40b95dafda8774934, type: 2}
+  - startTime: 300
+    duration: 120
+    count: 200
+    prefab: {fileID: 1709254077376921, guid: 8462928779a387448b98ac6df131c6a9, type: 2}
+  - startTime: 420
+    duration: 1
+    count: 1
+    prefab: {fileID: 1709254077376921, guid: 816f56a53562bea45a52eafdcd9248a0, type: 2}
+  - startTime: 420
+    duration: 240
+    count: 800
+    prefab: {fileID: 1709254077376921, guid: 684056d182d1d1c40b95dafda8774934, type: 2}
+  - startTime: 480
+    duration: 120
+    count: 800
+    prefab: {fileID: 1709254077376921, guid: 8462928779a387448b98ac6df131c6a9, type: 2}
+  - startTime: 480
+    duration: 1
+    count: 1
+    prefab: {fileID: 1709254077376921, guid: 5161a3b7ee40d3548b24e1db82b80e52, type: 2}
+  - startTime: 540
+    duration: 1
+    count: 1
+    prefab: {fileID: 1709254077376921, guid: 816f56a53562bea45a52eafdcd9248a0, type: 2}
+  - startTime: 600
+    duration: 300
+    count: 200
+    prefab: {fileID: 1709254077376921, guid: a7678044ac03f19488badb8de7d3abca, type: 2}
+  - startTime: 800
+    duration: 300
+    count: 600
+    prefab: {fileID: 1709254077376921, guid: 684056d182d1d1c40b95dafda8774934, type: 2}
+  - startTime: 840
+    duration: 1
+    count: 10
+    prefab: {fileID: 1709254077376921, guid: 5161a3b7ee40d3548b24e1db82b80e52, type: 2}
+  - startTime: 900
+    duration: 300
+    count: 400
+    prefab: {fileID: 1709254077376921, guid: a7678044ac03f19488badb8de7d3abca, type: 2}
+  - startTime: 900
+    duration: 300
+    count: 20
+    prefab: {fileID: 1709254077376921, guid: ab27a64159e8b2e48a74933e0f4aa2c3, type: 2}
+  - startTime: 1080
+    duration: 120
+    count: 25
+    prefab: {fileID: 1709254077376921, guid: 816f56a53562bea45a52eafdcd9248a0, type: 2}
+  - startTime: 1200
+    duration: 1
+    count: 1
+    prefab: {fileID: 1709254077376921, guid: 20d1aa99ce455d8449e1f6002d332c9b, type: 2}
+  - startTime: 1200
+    duration: 60
+    count: 200
+    prefab: {fileID: 1709254077376921, guid: 8462928779a387448b98ac6df131c6a9, type: 2}

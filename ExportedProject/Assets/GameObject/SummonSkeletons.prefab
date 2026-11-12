@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1709254077376921
+GameObject:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Component:
+  - component: {fileID: 4730242686860875}
+  - component: {fileID: 114724804207875695}
+  m_Layer: 0
+  m_Name: SummonSkeletons
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4730242686860875
+Transform:
+  serializedVersion: 2
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1709254077376921}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!114 &114724804207875695
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1709254077376921}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 516b7fba15fde1a0387ed0dbc8f3d549, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  identifier: summonskeletons
+  icon: {fileID: 21300000, guid: 5b44a355c8db16348a692f783fe61f3b, type: 2}
+  slot: 0
+  channeling: 0
+  manaCost: 20
+  coolDownBehaviour: 0
+  coolDown: 3
+  cooldownStacks: 3
+  triggerSound:
+  summonEffectPrefab: {fileID: 1709254077376921, guid: b4ee49e3b531ae845b33e0c8c9524377, type: 2}
+  summonPrefabs:
+  - {fileID: 1709254077376921, guid: 3baeb68c870399d4aa607a29ce9b727c, type: 2}
+  - {fileID: 1709254077376921, guid: c2f5b03b2d4fa8a409eb545aebf43d5b, type: 2}
+  numberOfSummons: 1
+  summonLimit: 32
+  summonPosition: 1
+  scatterRadius: 4

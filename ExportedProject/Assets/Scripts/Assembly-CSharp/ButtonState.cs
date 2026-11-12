@@ -1,0 +1,7 @@
+public enum ButtonState
+{
+	Idle = 0,
+	Down = 1,
+	Pressed = 2,
+	Up = 3
+}

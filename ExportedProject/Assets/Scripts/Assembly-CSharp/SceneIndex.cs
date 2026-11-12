@@ -1,0 +1,10 @@
+public enum SceneIndex
+{
+	TRANSITIONING = -1,
+	LOGOS = 0,
+	STARTSCREEN = 1,
+	OVERWORLD = 2,
+	UNDERWORLD_1 = 3,
+	UNDERWORLD_2 = 4,
+	UNDERWORLD_3 = 5
+}
